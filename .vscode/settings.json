@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./projeto_ia_ab2"
+    ]
+}
